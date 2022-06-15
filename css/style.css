@@ -1,8 +1,16 @@
-body{
+main{
     background-color: cornflowerblue;
   }
   
   label, p {
     color: #fff;
     padding-bottom: 5px
+  }
+  p{
+      color: #fff;
+  }
+
+  #survey-form{
+      background-color:  rgba(27, 27, 50, 0.5);
+      
   }
