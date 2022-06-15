@@ -1,0 +1,8 @@
+body{
+    background-color: cornflowerblue;
+  }
+  
+  label, p {
+    color: #fff;
+    padding-bottom: 5px
+  }
